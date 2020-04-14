@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryEmailer", "LibraryEmailer\LibraryEmailer.csproj", "{1B9BDC58-B3FE-492F-8D04-ED0D858DC27F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleConsoleWebJob", "SimpleConsoleWebJob\SimpleConsoleWebJob.csproj", "{BC7C00C3-3CF4-493E-911B-711D72EF9C4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B9BDC58-B3FE-492F-8D04-ED0D858DC27F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B9BDC58-B3FE-492F-8D04-ED0D858DC27F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B9BDC58-B3FE-492F-8D04-ED0D858DC27F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B9BDC58-B3FE-492F-8D04-ED0D858DC27F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC7C00C3-3CF4-493E-911B-711D72EF9C4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC7C00C3-3CF4-493E-911B-711D72EF9C4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC7C00C3-3CF4-493E-911B-711D72EF9C4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC7C00C3-3CF4-493E-911B-711D72EF9C4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9378476-D425-4651-BA7B-8418EF4A443F}
+	EndGlobalSection
+EndGlobal
